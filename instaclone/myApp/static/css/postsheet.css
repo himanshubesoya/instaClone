@@ -1,0 +1,56 @@
+.postwholecontainer{
+    max-width: 80vw;
+    background-color: antiquewhite;
+    border-radius: 3vh;
+    margin-left: auto ;
+  margin-right: auto ;
+    border: 0.125vw dashed crimson;
+    padding: 2vw;
+
+}
+
+.imageinpostcontainer{
+    float: left;
+    background-color: blue;
+    padding: 1vh;
+    margin: 4vh;
+    border-radius: 2vh;
+}
+
+.commentinpostcontainer{
+     float: right;
+    margin: 2vh;
+    margin-right: 9vw;
+    height: 50vh;
+    padding: 3vh;
+    background-color: burlywood;
+    border-radius: 2vh;
+    overflow-x: auto;
+}
+
+.postdetailcontainer{
+    background-color: lightgreen;
+    padding: 1vh;
+    /*margin: 1vh;*/
+    width: 100%;
+    border-radius: 1vh;
+}
+
+.headingcaptioncontainer{
+    font-family: 'Lobster', cursive;
+    font-weight: bolder;
+    color: crimson;
+    margin: 3vw;
+    margin-top: 3vh;
+    padding: 2vh;
+    background-color: cranberry;
+    border-radius: 2vw;
+    border: 0.01vw dashed crimson;
+}
+
+.headerlink{
+    font-family: 'Lobster', cursive;
+    font-weight: bolder;
+    font-size: 2vw;
+    color: crimson;
+}
